@@ -87,8 +87,8 @@ Me chamo Gabriel Henrique, tenho 23 anos e moro atualmente em Brasília, DF. Ten
 
 <div>
     <a href="https://beacons.ai/anagabiss">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhenss&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhenss&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhenss&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhenss&layout=compact&langs_count=16&theme=tokyonight"/>
 <div/>
 
 <picture align="center">
