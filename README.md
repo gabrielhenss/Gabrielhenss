@@ -1,6 +1,6 @@
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=7dcfff&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=718eee&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
 
@@ -17,7 +17,7 @@ Me chamo Gabriel Henrique, tenho 23 anos e moro atualmente em Brasília, DF. Ten
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 My Stack
 
 
 <img
@@ -88,7 +88,7 @@ Me chamo Gabriel Henrique, tenho 23 anos e moro atualmente em Brasília, DF. Ten
 <br>
 <br>
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <div>
     <a href="https://beacons.ai/anagabiss">
