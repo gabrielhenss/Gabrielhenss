@@ -7,7 +7,7 @@
 
 **`Software Developer`**
 
-Me chamo Gabriel Henrique, tenho 23 anos e moro atualmente em Brasília, DF. Tenho formação em um curso técnico em T.I. pela Escola Técnica de Ceilândia (ETC) e também estou no último período do curso de Análise e Desenvolvimento de Sistemas, onde eu o faço na Unicesumar. Durante minha trajetória acadêmica, participei ativamente no desenvolvimento de sistemas completos, adquirindo experiência em diversas áreas do desenvolvimento web.
+Me chamo Gabriel Henrique, tenho 23 anos e moro atualmente em Brasília, DF. Tenho formação em um curso técnico em T.I. pela Escola Técnica de Ceilândia (ETC) e também estou no último período do curso de Análise e Desenvolvimento de Sistemas, onde eu o faço na Unicesumar. Durante minha trajetória acadêmica, participei ativamente no desenvolvimento de sistemas completos, adquirindo experiência em diversas áreas do desenvolvimento.
 
 [![linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=logo--linkedin-svgrepo-com)](https://www.linkedin.com/in/gabriel-henrique-developer/)
 [![instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=logo--instagram-svgrepo-com)](https://www.instagram.com/gabrielhenss/)
