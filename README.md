@@ -97,7 +97,6 @@ Me chamo Gabriel Henrique, tenho 23 anos e moro atualmente em Brasília, DF. Ten
         alt="GitHub Stats"
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhenss&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=7"
-        
 </p>
 
   <picture align="center">
